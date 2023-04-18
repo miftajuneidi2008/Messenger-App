@@ -1,0 +1,42 @@
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background:  #056491;
+}
+.header h4
+{
+    margin-left: 10px;
+    color: floralwhite;
+    font-size: 1.2em;
+   
+}
+
+.header .sign-button
+{
+ margin-right: 10px;
+ padding: 5px;
+ background: transparent;
+ color: floralwhite;
+ height: 40px;
+ width: auto;
+ border-radius: 5px;
+ border: 1px solid white;
+ cursor: pointer;
+}
+.chat-body
+{
+ display: flex;
+ justify-content: space-between;
+ color: floralwhite;
+ margin-top: 10px;   
+ font-size: 1.6em;
+}
+.login-body
+{
+    color: rgb(31, 2, 2);
+    font-size: 2em;
+}

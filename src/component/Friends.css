@@ -1,0 +1,13 @@
+.container
+{
+    display: flex;
+}
+.msg
+{
+    font-size: 15px;
+    color: black;
+}
+.container .chat-bubble__left
+{
+    padding: 5px;
+}
